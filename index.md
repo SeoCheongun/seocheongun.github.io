@@ -4,22 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student at Korea University, majoring in Biomedical Engineering and Electrical Engineering. I am currently an undergraduate researcher at MIPL, where I work on medical imaging, gamma-camera data processing, and AI-based approaches for imaging and signal analysis.
+I am an undergraduate student at Korea University (Seoul), majoring in Biomedical Engineering and Electrical Engineering. I am currently an undergraduate researcher at the Medical Information Processing Laboratory, where I work on medical imaging, gamma-camera data processing, and learning-based methods for imaging and signal analysis.
 
-My academic background combines biomedical engineering, electrical engineering, signal processing, and machine learning. I am interested in medical AI, inverse problems, and generative models, especially in applications involving scientific and biomedical data.
+My research interests lie in computational imaging, inverse problems, signal processing, and generative models. I am particularly interested in developing computational methods that leverage physical models and data-driven priors for reconstruction and inference from real-world measurements.
 
-Through my research experience and personal projects, I aim to develop a deeper understanding of how AI methods can be connected with real measurement systems and domain-specific data.
+More broadly, I am interested in the co-design of hardware, computational algorithms, and artificial intelligence, with the goal of developing integrated imaging systems for scientific and biomedical applications.
 
 I use this site to organize my research experience, projects, and study notes.
 
 ## Interests
 
-- Signal Processing
+- Computational Imaging
 - Inverse Problems
 - Generative Models
-- Scientific and Biomedical Data
-- Medical AI
-- Medical Imaging
+- Signal Processing
+- Scientific & Biomedical AI
 
 ## News
 
