@@ -23,7 +23,7 @@ instagram: https://www.instagram.com/schnwn/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profile.jpeg
+avatar: ./assets/img/profile.jpg
 favicon: ./assets/img/favicon-s.svg
 favicon_dark: ./assets/img/favicon-s.svg
 
